@@ -1,0 +1,12 @@
+conda==4.8.3
+numpy==1.18.1
+pandas==1.0.3
+pandoc==1.0.2
+pycodestyle==2.5.0
+pylint==2.5.2
+pytest==5.3.5
+Sphinx==2.4.0
+sphinx-rtd-theme==0.4.3
+spyder==4.0.1
+flake8==3.7.9
+recommonmark==0.6.0
